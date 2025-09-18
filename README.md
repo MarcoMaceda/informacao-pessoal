@@ -1,6 +1,6 @@
 #Meu Portefólio Pessoal
 
-Bem-vindo ao meu primeiro site! 🚀  
+Bem-vindo ao meu primeiro site!   
 Este projeto é uma **página de apresentação pessoal** criada apenas com **HTML e CSS**.  
 O objetivo é mostrar um pouco sobre mim e, no futuro, partilhar os projetos que vou desenvolvendo.
 
